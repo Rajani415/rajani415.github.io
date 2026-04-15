@@ -31,7 +31,7 @@ A web application to manage job applications and company details.
 - Used advanced SQL (Joins, CTEs, Window Functions)
 - Performed salary trend analysis and reporting
 
-🔗 GitHub: (add your project link here)
+🔗 GitHub:https://github.com/Rajani415/employee-sales-analytics-sql/settings
 
 **Tech Stack:** SQL, MySQL
 
