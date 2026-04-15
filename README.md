@@ -42,7 +42,6 @@ A web application to manage job applications and company details.
 - ETL pipeline using Fivetran to Snowflake
 - Created dashboards in Power BI
 
-🔗 GitHub: (add your project link here)
 
 **Tech Stack:** HTML, Snowflake, Fivetran, Power BI
 
