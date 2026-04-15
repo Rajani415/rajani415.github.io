@@ -20,7 +20,7 @@ A web application to manage job applications and company details.
 - Data stored in MySQL database
 - Simple UI using HTML
 
-🔗 GitHub: (add your project link here)
+🔗 GitHub:https://github.com/Rajani415/Application-Tracking-System/settings
 
 **Tech Stack:** Java, Servlet, JDBC, MySQL, HTML
 
